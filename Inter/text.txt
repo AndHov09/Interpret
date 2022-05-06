@@ -1,0 +1,23 @@
+let a = 10
+let b = 10
+a += b
+show a
+show b
+let c = "abaca"
+show c
+if a == b
+{
+show "havasar"
+}
+else if a < b
+{
+show "poqr"
+}
+else 
+{
+show "exav!"
+}
+while a -= 2
+{
+show a
+}
