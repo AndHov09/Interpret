@@ -12,3 +12,16 @@ Features
     Error Handling: The interpreter includes robust error handling mechanisms to detect and report syntax errors, semantic errors, or runtime errors in the code. It provides informative error messages to aid in debugging and improving the code quality.
 
     Extensibility: The project offers a foundation for further language development or expansion. By understanding the structure and components of the interpreter, developers can extend the language's capabilities by adding new features, syntax rules, or built-in functions.
+    
+Usage
+To use the Simple Interpreter, follow these steps:
+
+    1.Clone the project repository from GitHub: git clone https://github.com/AndHov09/Interpret.git.
+
+    2.Open the project in your preferred development environment or compile the source files using your C++ compiler.
+
+    3.Write or load a program written in the custom programming language supported by the interpreter.
+
+    4.Execute the interpreter, providing the path to your program as an argument: interpreter myprogram.txt.
+
+    5.The interpreter will parse, analyze, and execute the code, producing the desired output or behavior as defined in the program.
